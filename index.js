@@ -14,3 +14,7 @@ function inc(n) {
   var number = n
   return number += 1
 }
+function dec(n) {
+  var number = n
+  return number -= 1
+}
